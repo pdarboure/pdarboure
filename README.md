@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Pedro Agustin Darboure
-- 👀 I’m interested in learing dev
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on JS projets
-- 📫 How to reach me darbourepagustin@gmail.com
+Pedro Agustin Darboure — @Darbuu
 
+Hola, soy Agustin. Abogado con  Magister de la Universidad de Buenos Aires en Derecho y Economía, apasionado de la tecnologia. 
 
+Contacto
+
+LinkedIn: https://www.linkedin.com/in/pedrodarboure
+Mail: darbourepagustin@gmail.com
