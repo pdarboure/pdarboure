@@ -1,6 +1,6 @@
-Pedro Agustin Darboure — @Darbuu
+Pedro Agustín Darboure — @Darbuu
 
-Hola, soy Agustin. Abogado con  Magister de la Universidad de Buenos Aires en Derecho y Economía, apasionado de la tecnologia. 
+Hola, soy Agustín. Abogado con  Magister de la Universidad de Buenos Aires en Derecho y Economía, apasionado de la tecnología. 
 
 Contacto
 
